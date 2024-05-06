@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699270957 source:d:\function\main.cpp
+	<iostream>
+	<string.h>
+
+1699270957 source:c:\users\haidy\desktop\oop_files\function\main.cpp
+	<iostream>
+	<string.h>
+

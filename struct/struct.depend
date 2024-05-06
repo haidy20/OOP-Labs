@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699270613 source:d:\struct\main.cpp
+	<iostream>
+	<string.h>
+
+1699385634 source:c:\users\haidy\desktop\oop_files\struct\main.cpp
+	<iostream>
+	<string.h>
+
